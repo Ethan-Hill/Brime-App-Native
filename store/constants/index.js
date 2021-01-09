@@ -1,0 +1,1 @@
+export const SET_COLORMODE = "SET_COLORMODE";
